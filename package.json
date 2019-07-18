@@ -1,0 +1,22 @@
+{
+  "name": "shop-gulp",
+  "version": "1.0.0",
+  "description": "My First Gulp Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anastacy28/shop-gulp.git"
+  },
+  "author": "Anastacy Slyusar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anastacy28/shop-gulp/issues"
+  },
+  "homepage": "https://github.com/anastacy28/shop-gulp#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
